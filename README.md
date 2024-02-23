@@ -14,9 +14,9 @@
 
 <p align="center">
  <div align="center"  class="icons-social" style="margin-left: 10px;">
-  <a style="margin-left: 10px;"  target="_blank" href="https://linkedin.com/in/jdenoy"><img width="40" height="40" src="https://img.icons8.com/ios-filled/50/linkedin.png" alt="linkedin"/></a>
+  <a style="margin-left: 10px;" target="_blank" href="https://linkedin.com/in/jdenoy"><img width="40" height="40" src="https://img.icons8.com/ios-filled/50/linkedin.png" alt="linkedin"/></a>
   <a style="margin-left: 10px;" target="_blank" href="https://github.com/jdenoy"><img width="40" height="40" src="https://img.icons8.com/ios-filled/50/github.png" alt="github"/></a>
-	<a style="margin-left: 10px;" target="_blank" href="https://twitter.com/jdenoy"><img width="40" height="40" src="https://img.icons8.com/ios-filled/50/twitter.png" alt="twitter"/></a>
+  <a style="margin-left: 10px;" target="_blank" href="https://twitter.com/jdenoy"><img width="40" height="40" src="https://img.icons8.com/ios-filled/50/twitter.png" alt="twitter"/></a>
   <a style="margin-left: 10px;" target="_blank" href="https://t.me/jdenoy"><img width="40" height="40" src="https://img.icons8.com/ios-filled/50/telegram.png" alt="telegram"/></a>
  </div>
 </p>
