@@ -5,9 +5,9 @@
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🔭 I’m currently working as a Cloud Operations Manager @ <a href="https://www.saagie.com" target="blank">Saagie</a>
-- 🌱 I’m currently working on Cloud Infrastructures
-- 🤝 I’m available for freelancing.
+- 🔭 Ex-Cloud Operations Manager @ <a href="https://www.saagie.com" target="blank">Saagie</a>
+- 🧑‍💻 I'm currently looking for my next challenge
+- 🤝 I’m available for freelancing
 
 <br/>
 <h3 align="center" > 🤝 Connect with me 🤝 </h3>
