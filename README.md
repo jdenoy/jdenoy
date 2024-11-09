@@ -5,7 +5,7 @@
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 👮 Building the next SaaS to secure your email delivery @MailAuthCheck-com
+- 👮 Building the next SaaS to secure your email delivery @<a href="https://github.com/MailAuthCheck-com">MailAuthCheck.com</a>
 - 🔭 Ex-Cloud Operations Manager @ Saagie
 - 🧑‍💻 I'm currently looking for my next challenge
 - 🤝 I’m available for freelancing
