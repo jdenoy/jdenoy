@@ -5,7 +5,8 @@
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🔭 Ex-Cloud Operations Manager @ <a href="https://www.saagie.com" target="blank">Saagie</a>
+- 👮 Building the next SaaS to secure your email delivery @MailAuthCheck-com
+- 🔭 Ex-Cloud Operations Manager @ Saagie
 - 🧑‍💻 I'm currently looking for my next challenge
 - 🤝 I’m available for freelancing
 
