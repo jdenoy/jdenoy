@@ -36,13 +36,13 @@
 <summary>more</summary>
   
 # 💻 Tech Stack:
-![atom](https://img.shields.io/badge/Atom-%2366595C.svg?style=flat&logo=Atom&logoColor=white) 
+![Cursor](https://img.shields.io/badge/Cursor-%23121011.svg?style=flat&logo=Atom&logoColor=white)
+![Atom](https://img.shields.io/badge/Atom-%2366595C.svg?style=flat&logo=Atom&logoColor=white) 
 ![visualstudiocode](https://img.shields.io/badge/Visual_Studio_Code-%230078D4.svg?style=flat&logo=visualstudiocode&logoColor=white) 
 
-
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) 
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) 
 ![Perl](https://img.shields.io/badge/perl-%2339457E.svg?style=flat&logo=perl&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) 
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat&logo=go&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) 
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white) 
@@ -54,6 +54,11 @@
 ![Scaleway](https://img.shields.io/badge/SCALEWAY-%234f0599.svg?style=flat&logo=scaleway&logoColor=white) 
 ![ovh](https://img.shields.io/badge/ovh-%23002dbe.svg?style=flat&logo=ovh&logoColor=white) 
 
+![N8N](https://img.shields.io/badge/N8N-white.svg?style=flat&logo=n8n&logoColor=red) 
+![Make](https://img.shields.io/badge/Make-white.svg?style=flat&logo=make&logoColor=purple) 
+![Zapier](https://img.shields.io/badge/Zapier-white.svg?style=flat&logo=n8n&logoColor=orange) 
+![Home Assistant](https://img.shields.io/badge/Home-Assitant-white.svg?style=flat&logo=homeassistant&logoColor=lightblue)
+
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat&logo=apache&logoColor=white) 
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white) 
 ![Proxmox](https://img.shields.io/badge/proxmox-%23009639.svg?style=flat&logo=proxmox&logoColor=white) 
@@ -63,10 +68,6 @@
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) 
-
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) 
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat&logo=plotly&logoColor=white) 
-![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat&logo=scipy&logoColor=%white) 
 
 ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=flat&logo=ansible&logoColor=white) 
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white) 
@@ -87,6 +88,7 @@
 ![Ubuntu](https://img.shields.io/badge/ubuntu-%23E95420.svg?style=flat&logo=ubuntu)
 ![windows](https://img.shields.io/badge/Windows-%230078D6.svg?style=flat&logo=windows)
 ![mac-os](https://img.shields.io/badge/mac%20os-%23000000.svg?style=flat&logo=macos)
+![esp8266](https://img.shields.io/badge/esp8266-%23000000.svg?style=flat&logo=espressif)
 
 # 📊 GitHub Stats:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jdenoy&show_icons=true&locale=en&layout=compact" alt="jdenoy" /></p>
