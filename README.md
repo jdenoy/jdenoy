@@ -5,7 +5,7 @@
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🧠 External IT Lead (Fractional CIO) @www.johandenoyer.fr
+- 🧠 IT Expert @www.johandenoyer.fr
 - 🤝 I’m available for freelancing
 - 👮 Building the next SaaS to secure your email delivery @<a href="https://github.com/MailAuthCheck-com">MailAuthCheck</a>
 
