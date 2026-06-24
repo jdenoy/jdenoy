@@ -6,7 +6,7 @@
 </a>
 
 - 🧠 IT Expert @www.johandenoyer.fr
-- 🤝 I’m available for freelancing
+- 🤝 I'm available for freelancing
 - 👮 Building the next SaaS to secure your email delivery @<a href="https://github.com/MailAuthCheck-com">MailAuthCheck</a>
 
 
@@ -31,15 +31,14 @@
 
 
 
-
 <details>
 <summary>more</summary>
   
 # 💻 Tech Stack:
 ![Cursor](https://img.shields.io/badge/Cursor-%23121011.svg?style=flat&logo=Atom&logoColor=white)
-![Atom](https://img.shields.io/badge/Atom-%2366595C.svg?style=flat&logo=Atom&logoColor=white) 
 ![visualstudiocode](https://img.shields.io/badge/Visual_Studio_Code-%230078D4.svg?style=flat&logo=visualstudiocode&logoColor=white) 
 
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) 
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) 
 ![Perl](https://img.shields.io/badge/perl-%2339457E.svg?style=flat&logo=perl&logoColor=white) 
@@ -71,6 +70,7 @@
 
 ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=flat&logo=ansible&logoColor=white) 
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white) 
+![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=flat&logo=bun&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) 
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=flat&logo=terraform&logoColor=white) 
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=flat&logo=Raspberry-Pi) 
