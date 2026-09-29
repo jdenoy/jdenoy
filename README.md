@@ -10,6 +10,7 @@
 - 👮 Building the next SaaS to secure your email delivery @<a href="https://github.com/MailAuthCheck-com">MailAuthCheck</a>
 - 🗞️ Automated my IT Tech Watch @<a href="https://diginews.johandenoyer.fr/">DigiNews</a> 
 - 📚 Building the biggest directory of independent French libraries @<a href="https://www.pagesvoisines.fr">Pages Voisines</a>
+- 📡 Amateur Radio operator since 1995 (KB2YEQ and F4WAT) and transmissions specialist and VP @Adrasec 27 (civil security)
 
 
 <br/>
