@@ -12,7 +12,15 @@
 - 📚 Building the biggest directory of independent French libraries @<a href="https://www.pagesvoisines.fr">Pages Voisines</a>
 - 📡 <a href="https://www.f4wat.xyz">Amateur Radio operator</a> since 1995 (KB2YEQ and F4WAT) and transmissions specialist and VP @<a href="https://www.adrasec27.org">Adrasec 27</a> (civil security)
 
-
+> [!NOTE]
+> **About contributions**
+>
+> I enjoy exchanging ideas and I often reply to issues, discussions and pull requests with feedback or suggested improvements, both in my own repositories and in projects I contribute to.
+> A reply, a review or a suggested change does not mean the pull request will be merged.
+> Merge decisions remain with the repository owners and maintainers.
+>
+> ![Feedback](https://img.shields.io/badge/feedback-welcome-2EA44F?style=flat&logo=github&logoColor=white)
+> ![Merge](https://img.shields.io/badge/merge-not_guaranteed-lightgrey?style=flat)
 <br/>
 <h3 align="center" > 🤝 Connect with me 🤝 </h3>
 
