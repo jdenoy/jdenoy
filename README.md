@@ -10,7 +10,7 @@
 - 👮 Building the next SaaS to secure your email delivery @<a href="https://github.com/MailAuthCheck-com">MailAuthCheck</a>
 - 🗞️ Automated my IT Tech Watch @<a href="https://diginews.johandenoyer.fr/">DigiNews</a> 
 - 📚 Building the biggest directory of independent French libraries @<a href="https://www.pagesvoisines.fr">Pages Voisines</a>
-- 📡 <a href="https://www.f4wat.xyz">Amateur Radio operator</a> since 1995 (KB2YEQ and F4WAT) and transmissions specialist and VP @<a href="https://www.pagesvoisines.fr">Adrasec 27</a> (civil security)
+- 📡 <a href="https://www.f4wat.xyz">Amateur Radio operator</a> since 1995 (KB2YEQ and F4WAT) and transmissions specialist and VP @<a href="https://www.adrasec27.org">Adrasec 27</a> (civil security)
 
 
 <br/>
@@ -72,18 +72,16 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) 
 
 ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=flat&logo=ansible&logoColor=white) 
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white) 
+![GitHub](https://img.shields.io/badge/GitHub-repo-181717?style=flat&logo=github&logoColor=white)
 ![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=flat&logo=bun&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) 
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=flat&logo=terraform&logoColor=white) 
-![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=flat&logo=Raspberry-Pi) 
 ![Rancher](https://img.shields.io/badge/rancher-%230075A8.svg?style=flat&logo=rancher&logoColor=white) 
 ![Vagrant](https://img.shields.io/badge/vagrant-%231563FF.svg?style=flat&logo=vagrant&logoColor=white) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) 
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white) 
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white) 
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white)
-![OpenAI](https://img.shields.io/badge/openai-%230A0FFF.svg?style=flat&logo=openai)
 ![zsh](https://img.shields.io/badge/zsh-%230A0FFF.svg?style=flat&logo=zsh)
 
 ![ArchLinux](https://img.shields.io/badge/archlinux-%230A0FFF.svg?style=flat&logo=archlinux)
@@ -91,7 +89,18 @@
 ![Ubuntu](https://img.shields.io/badge/ubuntu-%23E95420.svg?style=flat&logo=ubuntu)
 ![windows](https://img.shields.io/badge/Windows-%230078D6.svg?style=flat&logo=windows)
 ![mac-os](https://img.shields.io/badge/mac%20os-%23000000.svg?style=flat&logo=macos)
+
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white) 
+![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=flat&logo=Raspberry-Pi) 
+![ESP32](https://img.shields.io/badge/ESP32-Espressif-E7352C?style=flat&logo=espressif&logoColor=white)
 ![esp8266](https://img.shields.io/badge/esp8266-%23000000.svg?style=flat&logo=espressif)
+![Quansheng UV-K1](https://img.shields.io/badge/Quansheng-UV--K1-1E5AA8?style=flat)
+![M5Stack Core2](https://img.shields.io/badge/M5Stack-Core2-E60012?style=flat)
+![M5Stack Tab5](https://img.shields.io/badge/M5Stack-Tab5-E60012?style=flat)
+
+
+![Anthropic](https://img.shields.io/badge/Anthropic-Claude-D97757?style=flat&logo=anthropic&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-API-412991?style=flat)
 
 # 📊 GitHub Stats:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jdenoy&show_icons=true&locale=en&layout=compact" alt="jdenoy" /></p>
